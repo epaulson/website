@@ -1,5 +1,5 @@
 BASEDIR=$(CURDIR)
-HTMLDIR=$(BASEDIR)/output
+HTMLDIR=$(BASEDIR)/html
 DEPLOYUSER=HackingMadison
 DEPLOYREPOSITORY=hackingmadison.github.io
 
